@@ -1,0 +1,12 @@
+name: scalable-gis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - dask[complete]
+  - dask-geopandas
+  - jupyterlab
+  - osmnx
+  - pandana
+  - pyogrio
+  - python-graphviz
