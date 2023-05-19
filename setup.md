@@ -3,8 +3,8 @@
 ## Before the workshop
 
 * **Windows users are strongly recommended to install Windows Subsystem for Linux 2 (WSL).** For instructions, see Windows section below.  
-* Participants should have Python 3 and SSH. In order to verify whether these are installed and/or to install them on MacOS, Linux, or Windows, see the Appendix section below.   
-* Python Packages: Fabric and Decorator. In a terminal window, type: 
+* Participants should have **Python 3** and **SSH**. In order to verify whether these are installed and/or to install them on MacOS, Linux, or Windows, see the Appendix section below.   
+* Two Python packages are required: Fabric and Decorator. To install them, type in a terminal window: 
     ```shell
     pip install fabric decorator
     ```
