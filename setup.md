@@ -35,7 +35,7 @@
 * Edit the configuration file `config/platforms/platforms.ini` with your account information:
     * You can use `nano` (e.g. `nano config/platforms/platforms.ini` to start editing, Ctrl+X to quit); 
     * Replace the user name `stursdat-XX` with your user ID (e.g. `stursdat-01`);
-    * Replace the SSH key path `/path/to/the/ssh-key/rsa_stursdat_XX` to the actual file path (e.g. `/Users/fnattino/Downloads/rsa_stursdat_01`).   
+    * Replace the SSH key path `/path/to/the/ssh-key/rsa_stursdat_XX` with the actual file path (e.g. `/Users/fnattino/Downloads/rsa_stursdat_01`).   
 * Start a Jupyter session on Spider by running the following command:
   ```
   python runJupyterDaskOnSLURM.py --uid spider-stursdat --mode run
