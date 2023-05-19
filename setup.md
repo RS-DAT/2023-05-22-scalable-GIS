@@ -8,7 +8,7 @@
     ```shell
     pip install fabric decorator
     ```
-  (Participants familiar with `conda` or `venv`, can create an environment with the following dependencies: python3.10, fabric, decorator) 
+  (Participants familiar with `conda` or `venv`, can create an environment with the following dependencies: `python=3.10`, `fabric`, `decorator`) 
 * Download and extract the following zip archive: [link](https://github.com/RS-DAT/JupyterDaskOnSLURM/archive/refs/heads/workshops.zip)
 * Test the setup: 
     * Access the extracted folder in your terminal  (you might have to modify the path below): 
