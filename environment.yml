@@ -1,12 +1,28 @@
-name: scalable-gis
+name: jupyter_dask
 channels:
   - conda-forge
 dependencies:
+  # Python version
   - python=3.10
+  # JupyterDask dependencies
   - dask[complete]
+  - dask-jobqueue
+  - jupyterlab>=3,<4
+  - dask-labextension
+  - jupyterlab-git
+  # other dependencies
   - dask-geopandas
-  - jupyterlab
+  - folium
+  - geopandas
+  - ipywidgets
+  - mapclassify
+  - mpi4py
+  - momepy
   - osmnx
+  - owslib
   - pandana
   - pyogrio
   - python-graphviz
+  - scipy
+  - seaborn
+  - shapely
