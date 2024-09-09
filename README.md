@@ -4,7 +4,7 @@ This repository contains material for the second session of the workshop [Scalab
 
 The workshop run on the [Spider Data Processing infrastructure](http://doc.spider.surfsara.nl/en/latest/Pages/getting_started.html) at [SURF](https://www.surf.nl) using the setup described [in this repository](https://github.com/RS-DAT/JupyterDaskOnSLURM).
 
-See [the Setup document](./setup.md) for setup instructions.
+See [the Setup document](https://github.com/RS-DAT/2023-05-22-scalable-GIS/blob/main/setup.md) for setup instructions.
 
 ## Links & Credits
 
